@@ -1,5 +1,5 @@
 # Ansible Nedir?
-
+![alt text](https://github.com/ugurbzkrt/ansible-TR/blob/main/attune_images.jpg)
 IT görevlerini otomatikleştirmek için kullanılan konfigürasyon tooludur.
 Tek bir sunucu üzerinden işlem yapmak istediğiniz sunucuları yönetmek için kullanılır.
 Örnek verecek olursam herhangi bir Cloud Provider altyapısında çalışan 100 sunucunun "root password" değiştirmek isterseniz tek bir sunucu üzerinden yapabilirsiniz.
